@@ -1,0 +1,15 @@
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\bin\Debug\net5.0\ToDoListApp.Application.deps.json
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\bin\Debug\net5.0\ToDoListApp.Application.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\bin\Debug\net5.0\ref\ToDoListApp.Application.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\bin\Debug\net5.0\ToDoListApp.Application.pdb
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\bin\Debug\net5.0\ToDoListApp.Domain.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\bin\Debug\net5.0\ToDoListApp.Domain.pdb
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.csproj.AssemblyReference.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.AssemblyInfoInputs.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.AssemblyInfo.cs
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.csproj.CopyComplete
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ref\ToDoListApp.Application.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Application\obj\Debug\net5.0\ToDoListApp.Application.pdb

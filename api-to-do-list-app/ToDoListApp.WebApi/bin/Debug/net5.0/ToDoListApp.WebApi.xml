@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ToDoListApp.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:ToDoListApp.WebApi.Controllers.AccountController">
+            <summary>
+            Accounts Administrator
+            </summary>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.AccountController.Login(ToDoListApp.Application.Models.Identiry.AuthRequest)">
+            <summary>
+            Get a jwt token for authentication
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.AccountController.Register(ToDoListApp.Application.Models.Identiry.RegistrationRequest)">
+            <summary>
+            Create a new user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoListController.GetToDoListByUsername(System.String)">
+            <summary>
+            Get To do list by userName
+            </summary>
+            <param name="username"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoListController.CreateTodoList(ToDoListApp.Application.Features.TodoList.Command.CreateToDoList.CreateToDoListCommand)">
+            <summary>
+             Create a new To do List
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoTaskController.#ctor(MediatR.IMediator)">
+            <summary>
+            
+            </summary>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoTaskController.GetTodoTaskByListId(System.Int32)">
+            <summary>
+            Get To do list by userName
+            </summary>
+            <param name="toDoListId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoTaskController.Create(ToDoListApp.Application.Features.ToDoTask.Command.CreateToDoTask.CreateToDoTaskCommand)">
+            <summary>
+            Create a new task
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoTaskController.Update(ToDoListApp.Application.Features.ToDoTask.Command.UpdateToDoTask.UpdateToDoTaskCommand)">
+            <summary>
+            Update a task
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ToDoListApp.WebApi.Controllers.ToDoTaskController.Delete(System.Int32)">
+            <summary>
+            Delete task
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\bin\Debug\netstandard2.0\ToDoListApp.Domain.deps.json
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\bin\Debug\netstandard2.0\ToDoListApp.Domain.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\bin\Debug\netstandard2.0\ToDoListApp.Domain.pdb
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\obj\Debug\netstandard2.0\ToDoListApp.Domain.AssemblyInfoInputs.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\obj\Debug\netstandard2.0\ToDoListApp.Domain.AssemblyInfo.cs
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\obj\Debug\netstandard2.0\ToDoListApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\obj\Debug\netstandard2.0\ToDoListApp.Domain.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\obj\Debug\netstandard2.0\ToDoListApp.Domain.pdb
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoListApp.Domain\obj\Debug\netstandard2.0\ToDoListApp.Domain.csproj.AssemblyReference.cache

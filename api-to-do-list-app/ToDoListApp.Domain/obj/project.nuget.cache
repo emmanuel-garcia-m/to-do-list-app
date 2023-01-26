@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2SWpTxKi0BoaFEuvuQY0SRpZN2vFC7dsp5I7uSZZDCqs9NOyq4PoCRZRRASCg3xL/C/9EpL2l0IrQ6LoTApsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmanuel.garcia\\source\\CURSOS\\ToDoListProject\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmanuel.garcia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.garcia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

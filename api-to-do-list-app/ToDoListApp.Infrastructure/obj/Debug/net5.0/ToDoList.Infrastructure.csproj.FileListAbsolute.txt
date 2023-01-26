@@ -1,0 +1,15 @@
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\bin\Debug\net5.0\ToDoList.Infrastructure.deps.json
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\bin\Debug\net5.0\ToDoList.Infrastructure.runtimeconfig.json
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\bin\Debug\net5.0\ToDoList.Infrastructure.runtimeconfig.dev.json
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\bin\Debug\net5.0\ToDoList.Infrastructure.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\bin\Debug\net5.0\ref\ToDoList.Infrastructure.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\bin\Debug\net5.0\ToDoList.Infrastructure.pdb
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.AssemblyInfo.cs
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ref\ToDoList.Infrastructure.dll
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.pdb
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.genruntimeconfig.cache
+C:\Users\emmanuel.garcia\source\CURSOS\ToDoListProject\ToDoList.Infrastructure\obj\Debug\net5.0\ToDoList.Infrastructure.csproj.AssemblyReference.cache
