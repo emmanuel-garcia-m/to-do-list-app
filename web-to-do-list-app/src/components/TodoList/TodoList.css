@@ -1,0 +1,14 @@
+.container ul {
+	margin-top: 0;
+	padding-left: 0em;
+}
+.container ul li {
+	list-style-type: none;
+}
+.container ul + ul {
+	margin-bottom: 0;
+}
+.container ul + ul > li + li label {
+	margin-bottom: 0;
+}
+  
